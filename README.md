@@ -1,6 +1,6 @@
 # Post/Comment System in PHP and MySQL
 
-A simple demonstration of Relational Database in PHP and Mysql
+A simple demonstration of Relational Database in PHP and Mysql i created almost 4 years ago!
 
 <br />
 
