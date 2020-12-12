@@ -3,11 +3,9 @@
 A simple demonstration of Relational Database in PHP and Mysql
 
 <br />
-<br />
 
 ![alt text](images/statusweb_profile.png)
 
-<br />
 <br />
 
 ![alt text](images/statusweb_newsfeed.png)
